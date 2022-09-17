@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel src/pages/login/index.hbs --no-cache"
+    "dev": "parcel src/pages/login/index.hbs --no-cache",
+    "build": "parcel build ./src/pages/login/index.hbs --dist-dir ./dist/ --no-source-maps && node server.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
     "postcss-cli": "^10.0.0",
     "postcss-import": "^15.0.0",
     "postcss-url": "^10.1.3"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
   }
 }
