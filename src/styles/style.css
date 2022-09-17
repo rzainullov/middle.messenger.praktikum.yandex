@@ -20,7 +20,32 @@
 @import '../partials/login/loginContent/loginContent.css';
 @import '../partials/login/passwordField/passwordField.css';
 
-
+/* messenger components */
+@import '../partials/messenger/messageFeed/messageFeed.css';
+@import '../partials/messenger/buddyInfo/buddyInfo.css';
+@import '../partials/messenger/buddyName/buddyName.css';
+@import '../partials/messenger/buddyName/buddyName.css';
+@import '../partials/messenger/chatItem/chatItem.css';
+@import '../partials/messenger/chatBar/chatBar.css';
+@import '../partials/messenger/chatList/chatList.css';
+@import '../partials/messenger/lastMessageBrief/lastMessageBrief.css';
+@import '../partials/messenger/lastMessageStatus/lastMessageStatus.css';
+@import '../partials/messenger/message/message.css';
+@import '../partials/messenger/messageRow/messageRow.css';
+@import '../partials/messenger/messageText/messageText.css';
+@import '../partials/messenger/messageTextBrief/messageTextBrief.css';
+@import '../partials/messenger/messageTime/messageTime.css';
+@import '../partials/messenger/messageWindow/messageWindow.css';
+@import '../partials/messenger/attachButton/attachButton.css';
+@import '../partials/messenger/messageInput/messageInput.css';
+@import '../partials/messenger/newBuddyButton/newBuddyButton.css';
+@import '../partials/messenger/removeBuddyButton/removeBuddyButton.css';
+@import '../partials/messenger/searchInput/searchInput.css';
+@import '../partials/messenger/sendButton/sendButton.css';
+@import '../partials/messenger/settingsButton/settingsButton.css';
+@import '../partials/messenger/senderForm/senderForm.css';
+@import '../partials/messenger/messageFeed/messageFeed.css';
+@import '../partials/messenger/messengerContent/messengerContent.css';
 
 
 
