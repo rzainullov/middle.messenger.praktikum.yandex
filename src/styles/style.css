@@ -68,6 +68,7 @@
 @import '../partials/edit-profile/saveButton/saveButton.css';  
 @import '../partials/edit-profile/profileFormWithEditing/profileFormWithEditing.css';
 @import '../partials/edit-profile/backToLink/backToLink.css';
+@import '../partials/uploadAvatar/uploadAvatar.css';
 
 /* edit-password components */
 @import '../partials/edit-password/editPasswordContent/editPasswordContent.css';  
