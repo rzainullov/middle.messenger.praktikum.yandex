@@ -1,6 +1,8 @@
 
-    <div class="message_feed__message_window">
+    <ul class="message_feed__message_window">
         {{#each messages}}
-            {{> messenger/messageRow/messageRow this}}
+            <li>
+                {{> messenger/messageRow/messageRow this}}
+            </li>    
         {{/each}}
-    </div>
+    </ul>
