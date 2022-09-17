@@ -48,6 +48,32 @@
 @import '../partials/messenger/messengerContent/messengerContent.css';
 
 
+/* registration components */
+@import '../partials/registration/emailField/emailField.css';
+@import '../partials/registration/firstNameField/firstNameField.css';
+@import '../partials/registration/lastNameField/lastNameField.css';
+@import '../partials/registration/passwordAgainField/passwordAgainField.css';
+@import '../partials/registration/phoneField/phoneField.css';
+@import '../partials/registration/registrationButton/registrationButton.css';
+@import '../partials/registration/registrationContent/registrationContent.css';
+@import '../partials/registration/registrationForm/registrationForm.css';
+
+/* profile components */
+@import '../partials/profile/profileContent/profileContent.css';  
+@import '../partials/profile/chatNameField/chatNameField.css';  
+@import '../partials/profile/profileFormWithoutEditing/profileFormWithoutEditing.css';  
+
+/* edit-profile components */
+@import '../partials/edit-profile/editProfileContent/editProfileContent.css';  
+@import '../partials/edit-profile/saveButton/saveButton.css';  
+@import '../partials/edit-profile/profileFormWithEditing/profileFormWithEditing.css';
+@import '../partials/edit-profile/backToLink/backToLink.css';
+
+/* edit-password components */
+@import '../partials/edit-password/editPasswordContent/editPasswordContent.css';  
+@import '../partials/edit-password/editPasswordForm/editPasswordForm.css';  
+@import '../partials/edit-password/newPasswordField/newPasswordField.css';  
+@import '../partials/edit-password/oldPasswordField/oldPasswordField.css';  
 
 :root {
     --main-font:'Noto Sans Mono';
