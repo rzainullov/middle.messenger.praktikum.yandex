@@ -1,0 +1,29 @@
+@import './reset.css';
+@import './fonts.css';
+
+/* common components */
+@import '../layouts/desktop.css';
+@import '../partials/avatar/avatar.css';
+@import '../partials/button/button.css';
+@import '../partials/content/content.css';
+@import '../partials/heading/heading.css';
+@import '../partials/input/input.css';
+@import '../partials/link/link.css';
+@import '../partials/logo/logo.css';
+@import '../partials/formField/formField.css';
+@import '../partials/servicePage/servicePage.css';
+
+/* login components */
+@import '../partials/login/loginButton/loginButton.css';
+@import '../partials/login/loginField/loginField.css';
+@import '../partials/login/loginForm/loginForm.css';
+@import '../partials/login/loginContent/loginContent.css';
+@import '../partials/login/passwordField/passwordField.css';
+
+
+
+
+
+:root {
+    --main-font:'Noto Sans Mono';
+}
